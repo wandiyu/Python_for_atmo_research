@@ -81,3 +81,6 @@ Read data:
 	.he5
 	
 	.txt	
+
+Radiative transfer model: 
+	a simple radiative transfer model. 
