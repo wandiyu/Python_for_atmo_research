@@ -35,6 +35,8 @@ Basic functions:
 	gradient: calculate the gradient of a variable in several directions 
 	
 	interp_pre: linear interpolate one variable from one pressure field to another 
+	
+	convert_lon: convert variable in longitude axis from -180-180 to 0-360
 
 Make plot: 
 	
